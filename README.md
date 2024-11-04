@@ -6,6 +6,10 @@ Prompts the user to enter a name, updates the span element using querySelector a
 
 When clicked, button opens a modal; when clicked, modal closes itself. Uses classList add and remove functions to add/remove a class
 
-## Color flipper description
+## Color flipper project description
 
-When clicked, button generates a hex string, sets background of body to hex and displays new hex
+When clicked, button generates a hex string, sets background color of body to hex and displays new hex
+
+## Counter project description
+
+When clicked, buttons increment or decrement counter within limits, also increments or decrements background color rgb using set property
