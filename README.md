@@ -25,3 +25,7 @@ Tab-style navbar that highlights selected section and hides others
 ## FAQs
 
 HTML elements are created by JS and inserted via innerHTML
+
+## Testimonials
+
+HTML elements are created by JS and inserted via innerHTML
