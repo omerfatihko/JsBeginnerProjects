@@ -29,3 +29,7 @@ HTML elements are created by JS and inserted via innerHTML
 ## Testimonials
 
 HTML elements are created by JS and inserted via innerHTML
+
+## Countdown timer
+
+Uses local storage to hold target time info
