@@ -33,3 +33,7 @@ HTML elements are created by JS and inserted via innerHTML
 ## Countdown timer
 
 Uses local storage to hold target time info
+
+## Star ratings
+
+Uses local storage to hold ratings, adds onclick event handler to handle ratings
