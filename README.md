@@ -37,3 +37,7 @@ Uses local storage to hold target time info
 ## Star ratings
 
 Uses local storage to hold ratings, adds onclick event handler to handle ratings
+
+## Sortable table
+
+Reusable functions to sort a table<>
