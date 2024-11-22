@@ -40,4 +40,8 @@ Uses local storage to hold ratings, adds onclick event handler to handle ratings
 
 ## Sortable table
 
-Reusable functions to sort a table<>
+Reusable functions to sort a table
+
+## Shopping list
+
+JS class to group related functions
