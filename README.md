@@ -45,3 +45,7 @@ Reusable functions to sort a table
 ## Shopping list
 
 JS class to group related functions
+
+## Car race
+
+Creates a promise, waits a random amount of time, and resolves the promise
