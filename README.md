@@ -49,3 +49,7 @@ JS class to group related functions
 ## Car race
 
 Creates a promise, waits a random amount of time, and resolves the promise
+
+## Lazy Image Loader
+
+Creates a promise, waits for an image to load, either resolves (loaded) or rejects (not loaded)
