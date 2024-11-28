@@ -57,3 +57,7 @@ Creates a promise, waits for an image to load, either resolves (loaded) or rejec
 ## Lorem ipsum generator
 
 Uses fetch api to get a lorem ipsum text, copies it to clipboard
+
+## Autocomplete
+
+Get data from an api and create elements from it
