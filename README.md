@@ -61,3 +61,7 @@ Uses fetch api to get a lorem ipsum text, copies it to clipboard
 ## Autocomplete
 
 Get data from an api and create elements from it
+
+## User directory
+
+Modular user directory that uses local storage for faster loading, enables filtering
